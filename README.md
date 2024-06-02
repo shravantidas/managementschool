@@ -29,7 +29,7 @@ In the XAMPP Control Panel, click the "Start" buttons next to "Apache" and "MySQ
 Ensure both services are running. The status should turn green.
 Step 3: Set Up the Project Directory
 Navigate to the XAMPP installation directory (e.g., C:\xampp\htdocs on Windows).
-Download the repository from the link (Give your repositoy link)
+Download the repository from the link(https://github.com/shravantidas/managementschool)
 extract the repository into C:\xampp\htdocs\
 Step 5: Configure the Database
 Open your web browser and go to http://localhost/phpmyadmin.
